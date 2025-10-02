@@ -1,2 +1,1 @@
-# Elevate-Labs-Task7
-Creating Views
+The Task5DB database includes Customers and Orders tables and demonstrates SQL concepts such as creating tables with keys, inserting data, using joins (INNER, LEFT, RIGHT, FULL), writing subqueries (scalar, correlated, IN, EXISTS, =), and creating views for both complex queries with aggregates and simplified queries for abstraction and security, helping to practice relational database design and data retrieval.
